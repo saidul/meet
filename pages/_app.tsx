@@ -18,10 +18,10 @@ function MyApp({ Component, pageProps }: AppProps) {
           cardType: 'summary_large_image',
         }}
         openGraph={{
-          url: 'https://meet.livekit.io',
+          url: 'https://meet.saidul.dev',
           images: [
             {
-              url: 'https://meet.livekit.io/images/livekit-meet-open-graph.png',
+              url: 'https://meet.saidul.dev/images/livekit-meet-open-graph.png',
               width: 2000,
               height: 1000,
               type: 'image/png',
